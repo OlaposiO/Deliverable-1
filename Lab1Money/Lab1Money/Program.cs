@@ -19,7 +19,7 @@ namespace Lab1Money
              
                               
           start:
-            Console.WriteLine("Please enter your first amount.");
+            Console.WriteLine("Please enter your first amount:");
             input = Console.ReadLine();
             a = Convert.ToDouble(input);
             
